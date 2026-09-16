@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rodilleras de cuero Zeluga forradas en borrega | Forza WorkGear</title>
+<meta name="description" content="🦵 Rodilleras de cuero Zeluga — trabaja hincado todo el día sin sufrir Cuero genuino color vino por fuera y forro de borrega por dentro, con dos correas de cue">
+<meta property="og:title" content="Rodilleras de cuero Zeluga forradas en borrega">
+<meta property="og:description" content="🦵 Rodilleras de cuero Zeluga — trabaja hincado todo el día sin sufrir Cuero genuino color vino por fuera y forro de borrega por dentro, con dos correas de cue">
+<meta property="og:image" content="https://raw.githubusercontent.com/partnerpathai-TX/catalogo-productos-forza-workgear/main/productos/13.jpg">
+<meta property="og:type" content="product">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="../index.html">Forza WorkGear</a>
+  <span class="city">San Antonio, TX</span>
+</header>
+<main>
+  <a class="back-link" href="../index.html">&larr; Volver al catalogo</a>
+  <div class="product">
+    <div class="gallery">
+      <img id="mainPhoto" class="main" src="../productos/13.jpg" alt="Rodilleras de cuero Zeluga forradas en borrega">
+      <div class="thumbs">
+        <img src="../productos/13.2.jpg" alt="Rodilleras de cuero Zeluga forradas en borrega" onclick="document.getElementById('mainPhoto').src=this.src">
+      </div>
+    </div>
+    <div class="info">
+      <h1>Rodilleras de cuero Zeluga forradas en borrega</h1>
+      <div class="price-big">$45.00 USD</div>
+      <p>🦵 Rodilleras de cuero Zeluga — trabaja hincado todo el día sin sufrir</p>
+      <p>Cuero genuino color vino por fuera y forro de borrega por dentro, con dos correas de cuero y hebilla de metal que se ajustan a tu pierna y no se aflojan al moverte. Copete de cuero reforzado con remaches para aguantar concreto, madera y teja.</p>
+      <p>✅ Cuero genuino de uso rudo<br>✅ Forro interior de borrega<br>✅ Dos correas ajustables con hebilla<br>✅ Copete reforzado con remaches<br>✅ No se resbalan al caminar hincado</p>
+      <p>Presentación en cuero vino. Para instaladores de piso, plomeros y techadores. 💪</p>
+      <div class="variant-block">
+        <label for="variant">Color</label>
+        <select id="variant" onchange="updateWA()">
+          <option value="Vino">Vino</option>
+          <option value="Negro">Negro</option>
+          <option value="Natural">Natural</option>
+        </select>
+      </div>
+      <a id="waBtn" class="btn-whatsapp" href="#" target="_blank" rel="noopener">Pedir por WhatsApp</a>
+    </div>
+  </div>
+</main>
+<footer class="site">Forza WorkGear &middot; San Antonio, TX &middot; Pedidos por WhatsApp</footer>
+<script>
+      function updateWA() {
+        var sel = document.getElementById('variant');
+        var label = sel.options[sel.selectedIndex].text;
+        var msg = "Hola, quiero pedir: Rodilleras de cuero Zeluga forradas en borrega (" + label + ") - $45.00 USD";
+        document.getElementById('waBtn').href = "https://wa.me/12107944086?text=" + encodeURIComponent(msg);
+      }
+      updateWA();
+    </script>
+</body>
+</html>
