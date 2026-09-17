@@ -90,8 +90,15 @@ Lo que sigue pendiente es de las cuentas (seccion 3), no del catalogo:
       corren anuncios dinamicos de catalogo.
 - [ ] WhatsApp Business: **pausado a proposito (2026-09-17)**. Instalar app con el
       numero +1 210 794 4086, vincular a la Pagina/portafolio, cuando se retome.
-- [ ] Activar la pestana de Tienda en la Pagina de Facebook e Instagram Shopping para
-      que el catalogo se vea ahi (se hace desde Commerce Manager -> Canales de venta).
+- [x] **Decidido NO publicar la "Tienda" con checkout de Meta (2026-09-17).** El asistente
+      de Commerce Manager -> Tiendas exige "Perfil de envio" y "URL de pago" para poder
+      publicar, y no hay checkout real en el sitio (se vende por WhatsApp). Inventar una
+      URL de pago falsa generaria pedidos rotos y problemas con las politicas de Meta, asi
+      que se dejo esa Tienda sin publicar (queda como borrador, sin efecto). Los 20
+      productos ya son visibles y administrables desde Commerce Manager de todas formas.
+- [ ] **Sin confirmar:** si sin publicar esa Tienda, de todas formas se pueden etiquetar
+      productos del catalogo en publicaciones normales de Facebook/Instagram. Falta probar
+      con una publicacion de prueba.
 - [ ] Cuenta de TikTok (empresa, sin TikTok Shop).
 
 ---
