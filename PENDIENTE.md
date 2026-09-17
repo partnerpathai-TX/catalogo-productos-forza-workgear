@@ -100,8 +100,14 @@ Lo que sigue pendiente es de las cuentas (seccion 3), no del catalogo:
       6 publicaciones agrupadas por categoria, con foto(s) + precio + CTA de WhatsApp,
       textos en `posts-facebook-instagram.md`, publicadas via Meta Business Suite en
       ambas cuentas a la vez.
-- [ ] Cuenta de TikTok (empresa, sin TikTok Shop). Textos listos en `posts-tiktok.md`,
-      falta crear la cuenta y publicar los 6 posts ahi.
+- [x] **Los 20 productos ya estan publicados en TikTok (2026-09-17).** Cuenta
+      `@forzaworkgear` creada (personal/creador, sin verificacion de empresa -- ese
+      "Verificacion de la empresa" es opcional, no se activo, no bloquea nada). Bio con
+      `wa.me/12107944086`. 6 publicaciones con las mismas fotos y textos adaptados de
+      `posts-tiktok.md`.
+
+**Entrega cumplida (2026-09-17): los 20 productos del acuerdo estan publicados en
+Facebook, Instagram y TikTok**, cada uno con foto, precio y forma de pedir por WhatsApp.
 
 ---
 
@@ -124,8 +130,12 @@ cuenta personal y moverlo despues es un problema.
       saltarselo por ahora. No bloquea nada de lo demas: las 20 paginas de producto y el
       boton "Pedir por WhatsApp" ya estan listos con el numero +1 210 794 4086 en cuanto
       se retome. Instalar con el numero dedicado -> vincular a la Pagina / portafolio.
-- [ ] **9. TikTok** -> cuenta -> cambiar a cuenta de empresa.
-      **No abrir TikTok Shop.** Con venta por WhatsApp no se necesita, y pide documentos y cobra comision.
+- [x] **9. TikTok** -> cuenta `@forzaworkgear` creada (2026-09-17). Se quedo como
+      personal/creador: el toggle "Verificacion de la empresa" pide documento legal del
+      negocio que no se tenia a la mano, pero es opcional (solo desbloquea herramientas
+      de marketing extra) y no bloquea publicar. El dueno del negocio puede activarlo
+      despues con su documentacion si quiere.
+      **No se abrio TikTok Shop.** Con venta por WhatsApp no se necesita, y pide documentos y cobra comision.
 
 Recordatorio: Facebook, Instagram y WhatsApp comparten **un solo catalogo** de Meta.
 Se crea una vez, no tres. TikTok si es aparte.
