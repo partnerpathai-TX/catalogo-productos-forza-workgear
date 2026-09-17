@@ -118,6 +118,8 @@ footer.site {
   color: #7a766e;
   font-size: 0.85rem;
 }
+footer.site a { text-decoration: underline; }
+footer.site a:hover { color: var(--forza-orange); }
 .hero {
   padding: 26px 20px 6px;
   max-width: 1080px;

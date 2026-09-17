@@ -75,8 +75,24 @@ Lo que bloqueaba generar el catalogo ya se resolvio:
 
 Lo que sigue pendiente es de las cuentas (seccion 3), no del catalogo:
 
-- [ ] Verificacion del negocio ante Meta (acta/EIN o RFC, comprobante de domicilio).
-- [ ] Crear el portafolio comercial, Commerce Manager, WhatsApp Business, cuenta de TikTok.
+- [x] Verificacion del negocio ante Meta: Meta dijo que **no es necesaria por ahora**
+      para este portafolio (puede pedirla mas adelante si escala anuncios o mas gente
+      en el portafolio). No bloqueo.
+- [x] Portafolio comercial "Forza WorkGear" creado, con la Pagina de Facebook y el
+      Instagram (@forzaworkgear, cuenta profesional Empresa) conectados adentro.
+- [x] Cover photo de la Pagina de Facebook: `assets/facebook-cover-forza-workgear.jpg`
+      (generada con IA, flat-lay de herramienta con los colores de marca).
+- [x] Catalogo de Commerce Manager creado (tipo E-commerce, dentro del portafolio),
+      productos cargados via "Subir un archivo de datos" con la URL de `feed_meta.csv`
+      en GitHub. Confirmado: los 20 productos aparecen con foto y precio.
+      Se omitio "Conectar datos" (Meta Pixel) a proposito: no hay carrito/checkout que
+      trackear con el modelo de venta por WhatsApp; solo hace falta si mas adelante
+      corren anuncios dinamicos de catalogo.
+- [ ] WhatsApp Business: **pausado a proposito (2026-09-17)**. Instalar app con el
+      numero +1 210 794 4086, vincular a la Pagina/portafolio, cuando se retome.
+- [ ] Activar la pestana de Tienda en la Pagina de Facebook e Instagram Shopping para
+      que el catalogo se vea ahi (se hace desde Commerce Manager -> Canales de venta).
+- [ ] Cuenta de TikTok (empresa, sin TikTok Shop).
 
 ---
 
@@ -85,21 +101,20 @@ Lo que sigue pendiente es de las cuentas (seccion 3), no del catalogo:
 El orden importa. Si creas el catalogo antes del portafolio comercial, queda colgado de tu
 cuenta personal y moverlo despues es un problema.
 
-- [ ] **1. Cuenta personal de Facebook.** La tuya, real. Todo cuelga de ahi. Si ya tienes, usa esa.
-- [ ] **2. Pagina de Facebook** del negocio.
-- [ ] **3. Meta Business** en `business.facebook.com` -> crear el **portafolio comercial**.
-      Hacerlo ANTES del catalogo.
-- [ ] **4. Instagram** -> cambiar a cuenta **profesional tipo Empresa**.
-      No elegir "Creador": Creador no da acceso a comercio. Vincular a la Pagina.
-- [ ] **5. Agregar Pagina + Instagram dentro del portafolio comercial.**
-- [ ] **6. Verificacion del negocio** (Centro de seguridad de Meta).
-      Pide acta constitutiva o registro, EIN o RFC, y comprobante de domicilio.
-      **Tarda dias. Empezar este paso el primer dia**, no al final.
-- [ ] **7. Commerce Manager** -> catalogo tipo *E-commerce*, creado dentro del portafolio ->
-      fuente de datos = **Feed programado** con la URL de `feed_meta.csv` en GitHub Pages ->
-      frecuencia diaria u horaria.
-- [ ] **8. WhatsApp Business** -> instalar con el numero dedicado (+1 210 794 4086) ->
-      vincular a la Pagina / portafolio.
+- [x] **1. Cuenta personal de Facebook.** Ya la tenia (Eduardo Rodriguez).
+- [x] **2. Pagina de Facebook** del negocio. Creada, con foto de portada.
+- [x] **3. Meta Business** en `business.facebook.com` -> portafolio comercial "Forza WorkGear" creado.
+- [x] **4. Instagram** -> `@forzaworkgear`, cuenta profesional tipo Empresa, creada y vinculada.
+- [x] **5. Agregar Pagina + Instagram dentro del portafolio comercial.** Confirmado en Configuracion -> Personas.
+- [x] **6. Verificacion del negocio**: Meta indico que no es necesaria por ahora. Ver seccion 2.
+- [x] **7. Commerce Manager** -> catalogo tipo *E-commerce* creado dentro del portafolio,
+      fuente de datos = la URL de `feed_meta.csv` en GitHub (confirmado, no fue subida
+      manual). Confirmados 20 productos con foto y precio. Se actualiza solo cuando el
+      CSV cambia y se sube a GitHub.
+- [ ] **8. WhatsApp Business** -> **pausado a proposito (2026-09-17)**, el cliente decidio
+      saltarselo por ahora. No bloquea nada de lo demas: las 20 paginas de producto y el
+      boton "Pedir por WhatsApp" ya estan listos con el numero +1 210 794 4086 en cuanto
+      se retome. Instalar con el numero dedicado -> vincular a la Pagina / portafolio.
 - [ ] **9. TikTok** -> cuenta -> cambiar a cuenta de empresa.
       **No abrir TikTok Shop.** Con venta por WhatsApp no se necesita, y pide documentos y cobra comision.
 
