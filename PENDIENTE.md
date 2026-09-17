@@ -96,10 +96,12 @@ Lo que sigue pendiente es de las cuentas (seccion 3), no del catalogo:
       URL de pago falsa generaria pedidos rotos y problemas con las politicas de Meta, asi
       que se dejo esa Tienda sin publicar (queda como borrador, sin efecto). Los 20
       productos ya son visibles y administrables desde Commerce Manager de todas formas.
-- [ ] **Sin confirmar:** si sin publicar esa Tienda, de todas formas se pueden etiquetar
-      productos del catalogo en publicaciones normales de Facebook/Instagram. Falta probar
-      con una publicacion de prueba.
-- [ ] Cuenta de TikTok (empresa, sin TikTok Shop).
+- [x] **Los 20 productos ya estan publicados en Facebook e Instagram (2026-09-17).**
+      6 publicaciones agrupadas por categoria, con foto(s) + precio + CTA de WhatsApp,
+      textos en `posts-facebook-instagram.md`, publicadas via Meta Business Suite en
+      ambas cuentas a la vez.
+- [ ] Cuenta de TikTok (empresa, sin TikTok Shop). Textos listos en `posts-tiktok.md`,
+      falta crear la cuenta y publicar los 6 posts ahi.
 
 ---
 
